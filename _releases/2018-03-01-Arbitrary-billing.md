@@ -1,7 +1,9 @@
 ---
-title: Arbitrary billing, group disconnection of electricity consumers constitute gross consumer abuse - CPC raps DISCOs
-date: 2018-03-01
+title: Arbitrary billing, group disconnection of electricity consumers constitute
+  gross consumer abuse - CPC raps DISCOs
+date: 2018-03-01 00:00:00 +01:00
 ---
+
 The Consumer Protection Council (CPC) has appraised the interaction between the nation’s electricity distribution companies (DISCOs) and their consumers, declaring that arbitrary billing and group disconnection of electricity consumers without consideration for those paying their bills constitute a gross abuse of consumer rights.
 
 The Director General of the Council, Babatunde Irukera, said these in Abuja, at a meeting with the top management of Abuja Electricity Distribution Company (AEDC) led by its Managing Director, Engineer Ernest Mupwaya. The Director General noted that the vast majority of complaints in the sector are these two issues.

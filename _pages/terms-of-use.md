@@ -1,6 +1,6 @@
 ---
 title: WEBSITE POLICY (TERMS OF USE OF THE WEBSITE)
-permalink: /terms-of-use/
+permalink: "/terms-of-use/"
 layout: page
 ---
 

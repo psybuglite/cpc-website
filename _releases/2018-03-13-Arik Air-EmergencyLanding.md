@@ -1,8 +1,10 @@
 ---
-title: Arik Air emergency landing - CPC underscores need for additional scrutiny, precaution for safe operations, consumer confidence
-date: 2018-03-09
-document: /uploads/releases/arik.jpg
+title: Arik Air emergency landing - CPC underscores need for additional scrutiny,
+  precaution for safe operations, consumer confidence
+date: 2018-03-09 00:00:00 +01:00
+document: "/uploads/releases/arik.jpg"
 ---
+
 The Consumer Protection Council (CPC) has underscored the need for additional scrutiny and precaution in the aviation sector in order to ensure safe operations and passenger satisfaction.
 
 The Director General of CPC, Babatunde Irukera made the assertion in a statement issued on Friday, March 9, 2018 following an emergency landing of Arik Air Flight W3304 at Kotoka International Airport, Accra (ACC), Ghana on Tuesday evening.

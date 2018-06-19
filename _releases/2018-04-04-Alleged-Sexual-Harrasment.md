@@ -1,8 +1,9 @@
 ---
-title: "Alleged Sexual Harassment of a Student by a Lecturer at the Obafemi Awolowo University"
-date: 2018-04-30
+title: Alleged Sexual Harassment of a Student by a Lecturer at the Obafemi Awolowo
+  University
+date: 2018-04-30 00:00:00 +01:00
 act: Pursuant to Section 2(f)(i) of the Consumer Protection Council Act
-document: /uploads/releases/oau.png
+document: "/uploads/releases/oau.png"
 ---
 
 The Consumer Protection Council (CPC) has keenly followed a raging controversy regarding the sexually and emotionally abusive conduct of demanding, and or providing sexual gratification in exchange for favourable grades in school.

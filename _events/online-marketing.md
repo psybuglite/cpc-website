@@ -1,13 +1,20 @@
 ---
-title: "CPC, online marketing coys streamline operational principles for enhanced consumer confidence"
+title: CPC, online marketing coys streamline operational principles for enhanced consumer
+  confidence
+date: 2018-03-15 00:00:00 +01:00
 event_number: 2
 event_date: '2018-03-15'
-date: '2018-03-15'
 event_time: ''
 event_venue: ''
-caption: '(Right) Director General, Consumer Protection Council (CPC), Babatunde Irukera, briefing the media after the key intervention strategic engagement with top executives of e-commerce/online trading companies in Nigeria, while Chief Executive, Park and Shop Departmental Shop, Haresh Keswani (left); Regional Sales Manager, Yudala Limited, Charles Ogbamebo (2nd left); Head of Corporate  Governance, JUMIA, Oluwaseyi Oni (2 nd right) and others listen with intense attention.'
-image: /uploads/strategic-3.jpg
+caption: "(Right) Director General, Consumer Protection Council (CPC), Babatunde Irukera,
+  briefing the media after the key intervention strategic engagement with top executives
+  of e-commerce/online trading companies in Nigeria, while Chief Executive, Park and Shop
+  Departmental Shop, Haresh Keswani (left); Regional Sales Manager, Yudala Limited,
+  Charles Ogbamebo (2nd left); Head of Corporate  Governance, JUMIA, Oluwaseyi Oni
+  (2 nd right) and others listen with intense attention."
+image: "/uploads/strategic-3.jpg"
 ---
+
 The Consumer Protection Council (CPC) and senior management of the online marketing companies had a meeting on March 15, 2018 to commemorate 2018 World Consumer Rights Day, which has “Making the Digital Marketplaces Fairer” as its theme.
 
 The meeting focused on the current consumer experience in the online shopping marketplace. The particular concern that was the subject of discussion was protecting consumers as well as protecting legitimate and responsible online marketing companies and their brands. Both the Council and the online marketing companies agreed that only a robust, ethical and well regulated industry can promote consumer confidence and eliminate distrust; prevent fraud and market entry by those who seek to exploit and defraud. Parties also recognize that technological disruption and innovation remain a vital catalyst for economic expansion, commercial penetration and shared prosperity. As such, the Council and online marketing companies acknowledged that clear and transparent guiding principles, guidance and a regulatory framework are important to growing and sustaining a vibrant E-commerce industry. The Council and the online marketing companies adopted certain guiding principles with respect to E-commerce. These principles are:

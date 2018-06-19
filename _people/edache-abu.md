@@ -2,10 +2,11 @@
 title: Edache Abu
 layout: person
 designation: Assistant Director, Internal Audit
-image: /uploads/people/abu.jpg
+image: "/uploads/people/abu.jpg"
 level: Head
 rank: 10
 ---
+
 Mr. Abu, Joseph Edache who hails from Benue state of Nigeria, was born in Otukpo town, in Otukpo local Government area of the state.
 
 He holdsan Higher national Diploma in accountancy (H.N.D.) from Benue state Polytechnic Ugbokolo, and Ordinary National Diploma in accountancy (O.N.D) from Kaduna polytechnic.

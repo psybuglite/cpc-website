@@ -1,7 +1,9 @@
 ---
-title: "Implementation of tobacco control law: CPC pledges fair deal for all stakeholders in enforcement"
-date: 2017-07-19
+title: 'Implementation of tobacco control law: CPC pledges fair deal for all stakeholders in
+  enforcement'
+date: 2017-07-19 00:00:00 +01:00
 ---
+
 The Consumer Protection Council (CPC) has assured that it will ensure all interests are balanced in the enforcement of the provisions of the National Tobacco Control Act 2015 for the protection of consumers.
 CPC’s Director General, Babatunde Irukera made the assertion on Wednesday (July 19, 2017) at the Council’s headquarters in Abuja when a delegation of the Nigerian Tobacco Control Alliance led by the Chairman of the alliance Governing Board, who is also the Deputy Director of the Environmental Rights Action, Mr. Akinbode Oluwafemi and the Sub-Regional Coordinator, West Africa, of the Campaign for Tobacco-Free Kids, Mrs. Hilda Ochefu, paid him a courtesy call.
 The Alliance visited the Council’s chief executive to request the organisation to play a pivotal role in the enforcement of the nine provisions of the National Tobacco Control Act, among others.

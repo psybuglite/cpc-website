@@ -1,7 +1,8 @@
 ---
 title: News and Events
+permalink: "/news-events/"
 layout: page
-permalink: /news-events/
 grid: true
-summary:
+summary: 
 ---
+
