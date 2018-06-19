@@ -1,13 +1,18 @@
 ---
-title: "CPC, NAFDAC CEOs discuss collaboration against counterfeiting, adulteration of food, drugs"
+title: CPC, NAFDAC CEOs discuss collaboration against counterfeiting, adulteration
+  of food, drugs
+date: 2018-02-23 00:00:00 +01:00
 event_number: 2
 event_date: '2018-02-23'
-date: '2018-02-23'
 event_time: ''
 event_venue: ''
-caption: 'Director General, National Agency for Food and Drug Administration and Control (NAFDAC), Prof. Moji Adeyeye welcoming Babatunde Irukera, Director General, Consumer Protection Council (CPC) to her office in Abuja for a closed-door meeting, aimed at exploring partnership for enhanced consumer protection'
-image: /uploads/nafdac-01.jpg
+caption: Director General, National Agency for Food and Drug Administration and Control
+  (NAFDAC), Prof. Moji Adeyeye welcoming Babatunde Irukera, Director General, Consumer
+  Protection Council (CPC) to her office in Abuja for a closed-door meeting, aimed
+  at exploring partnership for enhanced consumer protection
+image: "/uploads/nafdac-01.jpg"
 ---
+
 The Director General of the Consumer Protection Council (CPC), Babatunde Irukera and his counterpart, at the National Agency for Food and Drug Administration and Control (NAFDAC), Professor Moji Adeyeye on Friday, February 23, 2018 agreed to collaborate to fight the menace of counterfeit and adulterated products in the country.
 
 Both organisations’ Chief Executive Officers (CEOs) had extensive discussions on a wide variety of national and citizens’ protection issues when Irukera visited the NAFDAC DG at the NAFDAC Headquarters.

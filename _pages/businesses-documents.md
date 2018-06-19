@@ -1,6 +1,7 @@
 ---
 title: Sales Promotion Documents
+permalink: "/businesses/documents/"
 layout: documents
-permalink: /businesses/documents/
 document: businesses
 ---
+

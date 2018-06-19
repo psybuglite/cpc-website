@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Sales Promotions Regulations and Guidelines
 permalink: "/businesses/sales-promotion-guidelines/"
+layout: page
 document:
-- file: /uploads/files/sales-promotions-regulations.pdf
+- file: "/uploads/files/sales-promotions-regulations.pdf"
   name: Download the regulations
-- file: /uploads/files/sales-promotions-guidelines.doc
+- file: "/uploads/files/sales-promotions-guidelines.doc"
   name: Download the guidelines
 List:
 - title: Introduction
@@ -16,3 +16,4 @@ List:
 
     c. CPC, by these Guidelines, in furtherance of the Consumer Protection Council (Sales Promotion) Registration Regulations 2005, provides guidance and direction on the process of seeking and securing approval for any sales promotion.
 ---
+

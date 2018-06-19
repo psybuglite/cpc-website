@@ -1,8 +1,9 @@
 ---
 title: Copyright
-permalink: /copyright/
+permalink: "/copyright/"
 layout: page
 ---
+
 The Council is the owner of the copyright, in accordance with the laws of Nigeria, in all materials and information found on this website and related applications, unless otherwise stated. Materials and information on this website and related applications have been posted with the intent that it be readily available for personal and public non-commercial use.
 
 **Photography, Graphics, Videos and Multimedia**

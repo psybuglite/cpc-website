@@ -2,10 +2,11 @@
 title: Kelechi Oko
 layout: person
 designation: Deputy Director, Quality Assurance and Development
-image: /uploads/people/oko.jpg
+image: "/uploads/people/oko.jpg"
 level: Head
 rank: 9
 ---
+
 Kelechi Oko is Deputy Director Quality Assurance and Development. Prior to joining the Council, he worked as a Technical Officer with Gaek Moke &amp; Company Ltd, a Sales Representative (Professional) and a Special Projects Manager (Regulatory Affairs) with Patnasonic Industry Ltd.
 
 While in Patnasonic Industries, he served as the head of the Health, Safety and Environment Committee and was member of the E.I.A implementation committee of the Patnasonic Group.

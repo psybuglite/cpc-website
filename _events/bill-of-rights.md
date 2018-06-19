@@ -1,13 +1,19 @@
 ---
-title: "Health Minister hails CPC’s draft Patients’ Bill of Rights (PBoR), says it’s a ground-breaking legacy document"
+title: Health Minister hails CPC’s draft Patients’ Bill of Rights (PBoR), says it’s
+  a ground-breaking legacy document
+date: 2018-05-14 00:00:00 +01:00
 event_number: 2
 event_date: '2018-05-14'
-date: '2018-05-14'
 event_time: ''
 event_venue: ''
-caption: 'Honourable Minister of Health, Professor Isaac Adewole (middle), in company of the President, Nigerian Medical Association (NMA), Dr. Francis Faduyile (left) exchanges pleasantry with the  Director General, Consumer Protection Council (CPC), Babatunde Irukera during the DG’s courtesy visit to the Honourable Minister to ratify the draft Patients’ Bill of Rights in Abuja.'
-image: /uploads/bill-01.jpg
+caption: Honourable Minister of Health, Professor Isaac Adewole (middle), in company
+  of the President, Nigerian Medical Association (NMA), Dr. Francis Faduyile (left)
+  exchanges pleasantry with the  Director General, Consumer Protection Council (CPC),
+  Babatunde Irukera during the DG’s courtesy visit to the Honourable Minister to ratify
+  the draft Patients’ Bill of Rights in Abuja.
+image: "/uploads/bill-01.jpg"
 ---
+
 The Minister of Health, Professor Isaac Adewole, has acclaimed the draft Patients’ Bill of Rights (PBoR), initiated and developed under the leadership of the Consumer Protection Council (CPC). The broad and comprehensive statement of rights of patients, their responsibilities, and obligations of healthcare providers is the largest step quite yet to protect patients and ensure the highest level of ethical conduct by healthcare professionals as well as enhance the quality and standard of care in the healthcare sector.
 
 The Minister’s enthusiasm and support for the initiative which he characterized as impressive, thoughtful and a matter of legacy was apparent and unmistakeable.

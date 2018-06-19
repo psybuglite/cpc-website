@@ -1,7 +1,8 @@
 ---
-title: "Be more responsive to resolution of consumer complaints, CPC counsels businesses"
-date: 2017-12-12
+title: Be more responsive to resolution of consumer complaints, CPC counsels businesses
+date: 2017-12-12 00:00:00 +01:00
 ---
+
 The Director General of the Consumer Protection Council (CPC), Babatunde Irukera, has insisted that businesses in the country must be responsive to consumer grievances and must institutionalize and prioritize complaint resolution policies and mechanism, stressing that this is the hallmark of company and brand reputation.
 
 Irukera noted that the current regime was unsustainable as it is tantamount to government subsidizing business, stating that the CPC should not substitute company customer care as a multi-company customer service desk.

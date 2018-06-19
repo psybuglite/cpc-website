@@ -1,8 +1,10 @@
 ---
-title: "CPC congratulates Airpeace on acquiring the first Boeing 777 to be registered in Nigeria"
-date: 2018-02-20
-document: /uploads/releases/airpeace.jpg
+title: CPC congratulates Airpeace on acquiring the first Boeing 777 to be registered
+  in Nigeria
+date: 2018-02-20 00:00:00 +01:00
+document: "/uploads/releases/airpeace.jpg"
 ---
+
 The Consumer Protection Council congratulates Airpeace on another major milestone on its journey to becoming a major carrier of choice in Nigeria by acquiring a Boeing 777.
 
 The Boeing 777 is a tested and tried equipment with a legendary reputation for comfort and versatility, as well as a remarkable record of safety. It is indeed one of the most successful long haul and wide bodied aircraft in the skies today.

@@ -1,8 +1,9 @@
 ---
-title: Recall of certain Ford Fusion, Lincoln and Focus vehicles on account of manufacturing defect
-date: 2018-03-19
+title: Recall of certain Ford Fusion, Lincoln and Focus vehicles on account of manufacturing
+  defect
+date: 2018-03-19 00:00:00 +01:00
 act: PURSUANT TO SECTIONS 2(b) and 2(c); CONSUMER PROTECTION COUNCIL ACT
-document: /uploads/releases/ford.png
+document: "/uploads/releases/ford.png"
 ---
 
 On March 14, 2018, the Ford Motor Company in the United States initiated a recall. Approximately 1.4 million vehicles are affected by the recall. The purpose of the recall is that; on some models, steering wheel bolts could become loose and cause the steering wheel to potentially detach. This could lead to a serious accident. Ford admits that it has become aware of two accidents and one injury that may have been caused by the problem. 

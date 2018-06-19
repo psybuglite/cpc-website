@@ -1,7 +1,9 @@
 ---
-title: CSOs, CPC need partnership, mutual trust for healthy relationship, enhanced consumers welfare - Babatunde Irukera, DG, CPC
-date: 2017-07-27
+title: CSOs, CPC need partnership, mutual trust for healthy relationship, enhanced
+  consumers welfare - Babatunde Irukera, DG, CPC
+date: 2017-07-27 00:00:00 +01:00
 ---
+
 The Director General of the Consumer Protection Council (CPC), Babatunde Irukera, has canvassed for mutual trust between Civil Society Organisations (CSOs) and the Council for a healthier relationship in the interest of Nigerian consumers.
 
 Similarly, he lauded the clamour for more partnership between the Council and CSOs, asserting that no government anywhere in the world can single-handedly protect its citizens against exploitation.

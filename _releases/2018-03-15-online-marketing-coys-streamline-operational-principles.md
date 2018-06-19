@@ -1,8 +1,10 @@
 ---
-title: "CPC, online marketing coys streamline operational principles for enhanced consumer confidence"
-date: 2018-03-15
-document: /uploads/releases/online-marketing.jpg
+title: CPC, online marketing coys streamline operational principles for enhanced consumer
+  confidence
+date: 2018-03-15 00:00:00 +01:00
+document: "/uploads/releases/online-marketing.jpg"
 ---
+
 The Consumer Protection Council (CPC) and senior management of the online marketing companies had a meeting on March 15, 2018 to commemorate 2018 World Consumer Rights Day, which has “Making the Digital Marketplaces Fairer” as its theme.
 
 The meeting focused on the current consumer experience in the online shopping marketplace. The particular concern that was the subject of discussion was protecting consumers as well as protecting legitimate and responsible online marketing companies and their brands. 

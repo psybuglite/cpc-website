@@ -1,10 +1,11 @@
 ---
 title: Public Service Warning Regarding Consumption of Medication Containing Codeine
-date: 2018-04-10
+date: 2018-04-10 00:00:00 +01:00
 act: Pursuant to Sections 2(c), (e), and (j), Consumer Protection Council Act 2004
-document: /uploads/releases/codeine.png
+document: "/uploads/releases/codeine.png"
 image: 
 ---
+
 Codeine is an opiate, and one of many in the opioids family. It is therefore classified as a narcotic substance, although not an illegal drug. Codeine is largely used as a pain reliever and cough suppressant. As such, it is an active ingredient in some expectorants or cough syrups.
 
 Currently, and in exercise of the regulatory authority of The National Agency for Food and Drug Administration and Control (NAFDAC), expectorants/cough syrups containing codeine may not be dispensed as non-prescriptive Over the Counter (OTC) medication. As such, it is illegal and a violation of law to attempt to purchase, purchase, as well as dispense any such medication, except exclusively in accordance with prescription by a qualified and legitimate medical practitioner. Any possession, delivery or provision of these medications in the absence of a prescription, or legal acquisition but dispensing to a person other than whom it is specifically prescribed for, is a violation of law, constitutes drug abuse, and presents significant medical risks including possible injury, risky behaviour, addiction, and in extreme cases (especially pediatrics), fatality.

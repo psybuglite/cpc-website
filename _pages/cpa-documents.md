@@ -1,6 +1,7 @@
 ---
 title: Relevant CPA Documents
+permalink: "/guidelines/documents/"
 layout: documents
-permalink: /guidelines/documents/
 document: ngos
 ---
+

@@ -1,13 +1,18 @@
 ---
-title: "CPC holds critical engagement with the media"
+title: CPC holds critical engagement with the media
+date: 2017-11-30 00:00:00 +01:00
 event_number: 2
 event_date: '2017-11-30'
-date: '2017-11-30'
 event_time: ''
 event_venue: ''
-caption: 'Babatunde Irukera, Director General, Consumer Protection Council (CPC) speaking during the Council’s strategic engagement with Directors, Business and News Editors of media houses, while Director, News, Federal Radio Corporation of Nigeria (FRCN), Sani Suleiman and Director, Consumer Education CPC, Mrs. Mopelola Akeju listen with rapt attention.'
-image: /uploads/engage-02.jpg
+caption: Babatunde Irukera, Director General, Consumer Protection Council (CPC) speaking
+  during the Council’s strategic engagement with Directors, Business and News Editors
+  of media houses, while Director, News, Federal Radio Corporation of Nigeria (FRCN),
+  Sani Suleiman and Director, Consumer Education CPC, Mrs. Mopelola Akeju listen with
+  rapt attention.
+image: "/uploads/engage-02.jpg"
 ---
+
 The Consumer Protection Council (CPC) had a strategic engagement with the media as part of its desire to forge a workable partnership with the media for a virile consumer protection regime in Nigeria.
 
 Director General of the Council, Babatunde Irukera, considered this engagement as critical in his administration’s priorities because of the role and place of the media in the crusade for an enhanced consumer protection in Nigeria.
