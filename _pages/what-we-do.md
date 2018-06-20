@@ -1,7 +1,6 @@
 ---
 title: What we do
 permalink: "/about/what-we-do/"
-layout: page
 show_on_about: true
 summary: 
 List:
@@ -43,10 +42,16 @@ List:
     market developments such as Advisories, Warnings, recalls and similar interventions.
     The Council conducts numerous specific and general awareness campaigns.
 - title: Research & Strategy
-  body: The Council engages in ongoing research about products and services, as well
-    as changing or evolving market trends and behaviour, both domestically and globally,
-    to develop strategies for interventions and modifying existing mechanisms to be
-    more effective or efficient. This is a vital aspect of how the Council accomplishes
-    its mandate and allocates its limited resources.
+  body: |-
+    The Council engages in domestic and global research about products and services, as well as changing or evolving market trends and consumer behaviour. The objectives are to:
+
+    * provide data base for organisational planning purposes on the concept of consumerism;
+
+    * develop strategies for interventions; and
+
+    * modify existing mechanisms to be more effective and/or efficient.
+
+    Research and strategy play a pivotal role in how the Council accomplishes its mandate and allocates its limited resources.
+layout: page
 ---
 
