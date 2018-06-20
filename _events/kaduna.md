@@ -1,7 +1,6 @@
 ---
 title: CPC Sensitizes Consumers in Kaduna on Quality.
 date: 2018-02-28 00:00:00 +01:00
-published: false
 event_date: 2018-02-28 00:00:00 +01:00
 image: "/uploads/kaduna-02.jpg"
 event_number: 2
