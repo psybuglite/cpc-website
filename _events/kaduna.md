@@ -29,5 +29,4 @@ Other activities carried out as part of the National Quality Campaign included a
 
 ![Director General, Consumer Protection Council (CPC) Babatunde Irukera (left) in a warm handshake with His Excellency, Governor, Nasir El-Rufai of Kaduna State during the DG’s courtesy call on the Governor to intimate him on the National Quality Campaign, taking place in the State and its environs.]({{ site.url}}/uploads/kaduna-01.jpg){: .spaced-image }
 
-
 ![Director General, Consumer Protection Council (CPC) Babatunde Irukera (in sun-shade) alongside UNIDO experts, lecturers and students of Ahmadu Bello University (ABU) during a mega rally on “Quality is everything” in the city of Zaria, Kaduna State.]({{ site.url}}/uploads/kaduna-03.jpg){: .spaced-image }
