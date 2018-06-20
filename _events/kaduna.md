@@ -4,10 +4,9 @@ date: 2018-02-28 00:00:00 +01:00
 event_date: 2018-02-28 00:00:00 +01:00
 image: "/uploads/kaduna-02.jpg"
 event_number: 2
-caption: Director General, Consumer Protection Council (CPC) Babatunde Irukera (left)
-  in a warm handshake with His Excellency, Governor, Nasir El-Rufai of Kaduna State
-  during the DG’s courtesy call on the Governor to intimate him on the National Quality
-  Campaign, taking place in the State and its environs.
+caption: Director General, Consumer Protection Council (CPC), Babatunde Irukera (centre,
+  in white shirt and sun shade) during the mega rally on National Quality, in the
+  city of Zaria.
 ---
 
 The Director General of the Consumer Protection Council (CPC),
