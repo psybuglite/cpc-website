@@ -1,15 +1,14 @@
 ---
 title: The Council
 permalink: "/about/council/"
-layout: council
 show_on_about: true
 summary: Consumer Protection Council (CPC) is the apex consumer protection agency
   in Nigeria. The overall mandate of the Council is to protect consumers by taking
   both preventive and remedial measures.
 intro:
-  dg_image: "/uploads/people/dg-desk-writing.jpg"
-  dg_name: Babatunde Irukera
-  dg_title: Director General, CPC
+  dg_image: "/uploads/office%20building.JPG"
+  dg_name: Consumer Protection Council
+  dg_title: Head Office, CPC
   dg_message: |-
     The Consumer Protection Council (CPC) is the apex consumer protection agency in Nigeria. The Council was established by the Consumer Protection Council Act (CPCA) (Cap. 25, Laws of The Federation 2004). The overall mandate of the Council is to protect consumers by taking both preventive and remedial measures.
 
@@ -17,5 +16,6 @@ intro:
 
     Since inception, the Council has had four Directors General. The current Director General is Babatunde Irukera.
 yea: 
+layout: council
 ---
 
