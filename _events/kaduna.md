@@ -2,7 +2,7 @@
 title: CPC Sensitizes Consumers in Kaduna on Quality.
 date: 2018-02-28 00:00:00 +01:00
 event_date: 2018-02-28 00:00:00 +01:00
-image: "/uploads/kaduna-01.jpg"
+image: "/uploads/kaduna-02.jpg"
 event_number: 2
 caption: Director General, Consumer Protection Council (CPC) Babatunde Irukera (left)
   in a warm handshake with His Excellency, Governor, Nasir El-Rufai of Kaduna State
