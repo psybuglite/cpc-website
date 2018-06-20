@@ -3,7 +3,6 @@ title: Strategic Goals
 permalink: "/about/strategic-goals/"
 summary: The Council in fulfilment of its statutory mandate employs several regulatory
   tools to monitor and modify behaviour of service providers and manufacturers.
-layout: page
 ordered-list:
 - title: 
   body: Ensure that producers and service providers and their patrons mutually respect
@@ -37,5 +36,6 @@ ordered-list:
   body: Hold providers and producers accountable to satisfying customers, including
     serving as a secondary level complaint resolution mechanism.
 show_on_about: true
+layout: page
 ---
 
