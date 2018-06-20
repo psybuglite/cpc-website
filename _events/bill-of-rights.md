@@ -2,16 +2,14 @@
 title: Health Minister hails CPC’s draft Patients’ Bill of Rights (PBoR), says it’s
   a ground-breaking legacy document
 date: 2018-05-14 00:00:00 +01:00
+event_date: 2018-05-14 00:00:00 +01:00
+image: "/uploads/bill-02.jpg"
 event_number: 2
-event_date: '2018-05-14'
-event_time: ''
-event_venue: ''
-caption: Honourable Minister of Health, Professor Isaac Adewole (middle), in company
-  of the President, Nigerian Medical Association (NMA), Dr. Francis Faduyile (left)
-  exchanges pleasantry with the  Director General, Consumer Protection Council (CPC),
-  Babatunde Irukera during the DG’s courtesy visit to the Honourable Minister to ratify
-  the draft Patients’ Bill of Rights in Abuja.
-image: "/uploads/bill-01.jpg"
+caption: Director General, Consumer Protection Council (CPC), Babatunde Irukera (right)
+  speaking on the proposed Patients’ Bill of Rights during his visit to the Honourable
+  Minister of Health, Professor Isaac Adewole (2nd right), while  President, Nigerian
+  Medical Association (NMA), Dr. Francis Faduyile (2nd left) and Director, Hospital
+  Services, Federal Ministry of Health, Dr. Omale Amedu (left) listen with deep interest.
 ---
 
 The Minister of Health, Professor Isaac Adewole, has acclaimed the draft Patients’ Bill of Rights (PBoR), initiated and developed under the leadership of the Consumer Protection Council (CPC). The broad and comprehensive statement of rights of patients, their responsibilities, and obligations of healthcare providers is the largest step quite yet to protect patients and ensure the highest level of ethical conduct by healthcare professionals as well as enhance the quality and standard of care in the healthcare sector.
@@ -32,7 +30,7 @@ Irukera, while responding, noted that the PBoR is an example of how the Council 
 
 Irukera further noted that CPC is grateful that the Honourable Minister and the ministry will champion and provide leadership for the proliferation of these rights and a better approach to patient care in Nigeria.
 
-![Director General, Consumer Protection Council (CPC), Babatunde Irukera (right) speaking on the proposed Patients’ Bill of Rights during his visit to the Honourable Minister of Health, Professor Isaac Adewole (2nd right), while  President, Nigerian Medical Association (NMA), Dr. Francis Faduyile (2nd left) and Director, Hospital Services, Federal Ministry of Health, Dr. Omale Amedu (left) listen with deep interest.]({{ site.url}}/uploads/bill-02.jpg){: .spaced-image }
+![Honourable Minister of Health, Professor Isaac Adewole (middle), in company of the President, Nigerian Medical Association (NMA), Dr. Francis Faduyile (left) exchanges pleasantry with the  Director General, Consumer Protection Council (CPC), Babatunde Irukera during the DG’s courtesy visit to the Honourable Minister to ratify the draft Patients’ Bill of Rights in Abuja.]({{ site.url}}/uploads/bill-01.jpg){: .spaced-image }
 
 ![A cross section of participants during the working visit of the Director General, Consumer Protection Council (CPC), Babatunde Irukera to the Honourable Minister of Health, Professor Isaac Adewole and his team on the proposed Patients’ Bill of Rights.]({{ site.url}}/uploads/bill-03.jpg){: .spaced-image }
 
