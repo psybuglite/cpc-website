@@ -2,7 +2,7 @@
 title: CPC Partners FRSC on Road Safety
 date: 2018-02-25 01:00:00 +01:00
 event_date: 2018-02-25 01:00:00 +01:00
-image: "/uploads/An_office.jpg"
+image: "/uploads/An_office.jpg  "
 is_events: false
 event_number: 2
 caption: An officer of the Federal Road Safety Commission (FRSC) explaining the automation
