@@ -1,17 +1,15 @@
 ---
 title: 'Quality campaign: LASG pledges readiness to collaborate with CPC'
 date: 2018-01-30 00:00:00 +01:00
+Event Date: 2018-01-30 00:00:00 +01:00
+image: "/uploads/lagos-quality-01.jpg"
 event_number: 2
-event_date: '2018-01-30'
-event_time: ''
-event_venue: ''
 caption: 'L-R: Director General, Consumer Protection Council (CPC), Babatunde Irukera;
   His Excellency, Governor Akinwumi Ambode of Lagos State and Commissioner for Commerce
   and Industry, Lagos State, Mr. Rotimi Ogunleye during the DG’s visit to the Governor
   to formally inform him of the launch of the National Campaign and Advocacy for quality
   in Nigeria, being done in partnership with United Nations Industrial Organisation
   {UNIDO}, in Lagos State.'
-image: "/uploads/lagos-quality-01.jpg"
 ---
 
 The Lagos State Governor, Akinwunmi Ambode, has said the Lagos State Government is ready to work with the Consumer Protection Council(CPC) to ensure that Nigerian consumers get quality value for products and services they pay for.
