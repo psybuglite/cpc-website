@@ -22,6 +22,6 @@ Enforcement Officers without delay, to remove all the non-conforming products wi
 
 ![CPC uncovers sharp practices and non-conformity with Good Manufacturing Practice (GMP), Good Hygiene Practice (GHP) and Good Storage Practice (GSP) during the inspection of a corn flour factory in Piwoyi, Airport Road, Abuja. CPC evacuates the products, pending the implementation of all corrective measures issued to the company.]({{ site.url}}/uploads/abuja-01.png){: .spaced-image }
 
-![ ]({{ site.url}}/uploads/abuja-03.png){: .spaced-image }
+![CPC uncovers sharp practices and non-conformity with Good Manufacturing Practice (GMP), Good Hygiene Practice (GHP) and Good Storage Practice (GSP) during the inspection of a corn flour factory in Piwoyi, Airport Road, Abuja. CPC evacuates the products, pending the implementation of all corrective measures issued to the company.]({{ site.url}}/uploads/abuja-03.png){: .spaced-image }
 
-![ ]({{ site.url}}/uploads/abuja-04.png){: .spaced-image }
+![CPC uncovers sharp practices and non-conformity with Good Manufacturing Practice (GMP), Good Hygiene Practice (GHP) and Good Storage Practice (GSP) during the inspection of a corn flour factory in Piwoyi, Airport Road, Abuja. CPC evacuates the products, pending the implementation of all corrective measures issued to the company.]({{ site.url}}/uploads/abuja-04.png){: .spaced-image }
