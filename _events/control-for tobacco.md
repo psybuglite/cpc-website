@@ -5,12 +5,12 @@ date: 2017-07-18 12:00:00 -11:00
 event_date: 2017-07-19 00:00:00 -11:00
 image: "/uploads/tobacco-01.jpg"
 event_number: 2
-caption: West Africa Sub-Regional Coordinator, Campaign for Tobacco-free Kids, Mrs.
+caption: 'West Africa Sub-Regional Coordinator, Campaign for Tobacco-free Kids, Mrs.
   Hilda Ochefu (second left), presenting a customized T-Shirt to the Director General
   Consumer Protection Council (CPC), Babatunde Irukera. Also, in the picture are,
   Deputy Executive Director, Environmental Rights Action, Mr. Akinbode Oluwafemi (left),
   Director, Surveillance and Enforcement Department, CPC, Mrs. Leke Ogundipe (second
-  right), and Director, Consumer Education, CPC, Mrs. Mopelola Akeju.
+  right), and Director, Consumer Education, CPC, Mrs. Mopelola Akeju.  '
 ---
 
 The Consumer Protection Council (CPC) has assured that it will ensure all interests are balanced in the enforcement of the provisions of the National Tobacco Control Act 2015 for the protection of consumers.
