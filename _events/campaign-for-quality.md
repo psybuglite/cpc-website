@@ -1,8 +1,8 @@
 ---
 title: 'Quality campaign: LASG pledges readiness to collaborate with CPC'
-date: 2018-01-30 00:00:00 +01:00
-Event Date: 2018-01-30 00:00:00 +01:00
+date: 2018-01-29 12:00:00 -11:00
 image: "/uploads/lagos-quality-01.jpg"
+Event Date: 2018-01-29 12:00:00 -11:00
 event_number: 2
 caption: 'L-R: Director General, Consumer Protection Council (CPC), Babatunde Irukera;
   His Excellency, Governor Akinwumi Ambode of Lagos State and Commissioner for Commerce
@@ -42,4 +42,4 @@ As part of the activities to flag off the launch of the campaign, Irukera in com
 ![L-R: Deputy Director, Legal Services, Consumer Protection Council (CPC), Mrs. Boladale Adeyinka; DG CPC, Babatunde Irukera; UNIDO’s National Quality Infrastructure Expert, Mr. Yitbarek Fantahun and Dr. Shaukat Malik, Chief Technical Adviser, UNIDO, during the National Campaign and Advocacy for Quality in Nigeria in Lagos.]({{ site.url}}/uploads/lagos-rally-01.jpg){: .spaced-image }
 
 
-![DG CPC, Babatunde Irukera sensitising some technicians and traders on the importance of quality in our society on the streets of Lagos.]({{ site.url}}/uploads/lagos-rally-02.jpg){: .spaced-image }
+![DG CPC, Babatunde Irukera, sensitising some technicians and traders in Lagos, about the importance of quality.]({{ site.url}}/uploads/lagos-rally-02.jpg){: .spaced-image }
