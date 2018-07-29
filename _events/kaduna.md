@@ -1,12 +1,12 @@
 ---
 title: CPC Sensitizes Consumers in Kaduna on Quality.
-date: 2018-02-28 00:00:00 +01:00
-event_date: 2018-02-28 00:00:00 +01:00
+date: 2018-02-27 12:00:00 -11:00
+event_date: 2018-02-27 12:00:00 -11:00
 image: "/uploads/kaduna-02.jpg"
 event_number: 2
-caption: Director General, Consumer Protection Council (CPC), Babatunde Irukera (centre,
-  in white shirt and sun shade) during the mega rally on National Quality, in the
-  city of Zaria.
+caption: The Consumer Protection Council (CPC) team and the United Nations Industrial
+  Development Organisation (UNIDO) team, at a mega rally, during the National Quality
+  Campaign, in the city of Zaria.
 ---
 
 The Director General of the Consumer Protection Council (CPC),
@@ -25,6 +25,6 @@ The CPC boss later had a closed-door session with the state governor before depa
 
 Other activities carried out as part of the National Quality Campaign included a visit to the Palace of the Emir of Zazzau, Zaria, a road walk and a town-hall meeting with students of tertiary institutions and youth on the importance of imbibing quality culture as a way of life.
 
-![Director General, Consumer Protection Council (CPC) Babatunde Irukera (left) in a warm handshake with His Excellency, Governor, Nasir El-Rufai of Kaduna State during the DG’s courtesy call on the Governor to intimate him on the National Quality Campaign, taking place in the State and its environs.]({{ site.url}}/uploads/kaduna-01.jpg){: .spaced-image }
+![Director General, Consumer Protection Council (CPC) Babatunde Irukera (left), shaking hands with His Excellency, Governor, Nasir El-Rufai of Kaduna State, during the DG’s courtesy call on the Governor, to intimate him on the National Quality Campaign, taking place in the State and its environs.]({{ site.url}}/uploads/kaduna-01.jpg){: .spaced-image }
 
-![Director General, Consumer Protection Council (CPC) Babatunde Irukera (in sun-shade) alongside UNIDO experts, lecturers and students of Ahmadu Bello University (ABU) during a mega rally on “Quality is everything” in the city of Zaria, Kaduna State.]({{ site.url}}/uploads/kaduna-03.jpg){: .spaced-image }
+![The Consumer Protection Council (CPC) team, and the United Nations Industrial Development Organisation (UNIDO) team, with lecturers and students of Ahmadu Bello University (ABU), at a mega rally, during the National Quality Campaign, in the city of Zaria.]({{ site.url}}/uploads/kaduna-03.jpg){: .spaced-image }
