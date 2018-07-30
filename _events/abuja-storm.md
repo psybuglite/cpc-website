@@ -1,5 +1,6 @@
 ---
-title: CPC Shuts down Abuja Factory over Underweight Products and Unhygienic Environment
+title: CPC Shuts down production at Abuja Factory over Underweight Products and Unhygienic
+  Environment
 date: 2018-04-15 12:00:00 -11:00
 event_date: 2018-04-16 00:00:00 -11:00
 image: "/uploads/abuja-02.png"
