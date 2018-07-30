@@ -1,14 +1,14 @@
 ---
 title: Administration and Human Resources Department
 permalink: "/about/departments/administration/"
+main: The Department of Administration and Human Resources manages the administration,
+  people, assets/facilities, and logistics of the Council. It is responsible for all
+  human resource matters such as hiring, career advance, including training, discipline
+  and compliance with federal character and other requirements of the Council.  The
+  day to day operations of the department include file archiving, managing correspondence
+  and supplies. The department is also the channel between the top leadership of the
+  Council and other employees including developing strategy to communicate vision,
+  policy and direction of leadership, securing adoption and implementation.
 layout: page
-main: "The department manages the human and material resources of the Council; such
-  as recruitment, career advancement, training, discipline and statutory compliance
-  with federal character, among others. The day-to-day operations of the Council including
-  facility management, employee communications, external correspondence, office supplies
-  and file archiving are some of the vital functions the department undertakes. \n\nThe
-  Administration and Human Resources Department is the channel of interface between
-  the Management and staff of the Council. It also develops administrative strategies
-  for the implementation of Management’s policies and direction."
 ---
 
