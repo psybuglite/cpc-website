@@ -1,5 +1,5 @@
 ---
-title: 'Quality campaign: LASG pledges readiness to collaborate with CPC'
+title: 'Quality Campaign: LASG pledges readiness to collaborate with CPC'
 date: 2018-01-29 12:00:00 -11:00
 image: "/uploads/lagos-quality-01.jpg"
 Event Date: 2018-01-29 12:00:00 -11:00
