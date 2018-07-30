@@ -1,7 +1,7 @@
 ---
-title: Babatunde Irukera, Director General, Consumer Protection Council (CPC) addressing
-  participants during a workshop on the importance of “Quality” at the University
-  of Lagos, Lagos.
+title: A cross section of participating students of University of Lagos (UNILAG) and
+  other tertiary institutions at the workshop on National Quality Campaign and Advocacy
+  at the UNILAG premises.
 image: "/uploads/unilag-02.jpg"
 dimensions: 1012x675
 ---

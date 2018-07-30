@@ -8,8 +8,8 @@ title: 'L-R: National President, National Association of Telecom Subscribers, Ch
   Equity Solace Initiative, Mrs. Habiba Abubakar; Deputy Executive Director, Environmental
   Right Action, Mr. Akinbode Oluwafemi and Director, Consumer Education CPC, Mrs.
   Mopelola Akeju in a group photograph after a round table forum for Non-Governmental
-  Organisations (NGOs) Civil Society Organisatios and Community Based Organisations
-  organized by CPC.'
+  Organisations (NGOs) Civil Society Organisations (CSOs), and Community Based Organisations
+  (CBOs), organized by CPC.'
 image: "/uploads/round-table-03.jpg"
 dimensions: 1012x675
 ---
