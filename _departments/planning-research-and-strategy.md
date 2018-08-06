@@ -10,8 +10,8 @@ main: "The Planning, Research and Strategy Department is the Council’s think t
   the process of designing strategies for intervention. \n\nThe department coordinates
   the preparation of monthly and quarterly progress reports, annual reports, and reports
   to the Ministry of Trade and Investment and other external stakeholders. The department
-  is also charged with the responsibility of coordinating the activities of the Council’s
-  Zonal and State offices; and managing the Council’s library.  \n"
+  is also charged with the responsibilities of coordinating the activities of the
+  Council’s Zonal and State offices; and managing the Council’s library.  \n"
 layout: page
 ---
 
